@@ -12,9 +12,9 @@ Existem cadernos de notas *Notebook Jupyter* separados que explicam como fazer o
 **Preparação de dados**
 
  - Obtenção do *Yahoo! Finanças* citações históricas
-   - [Notebook Jupyter: baixando ações da Bovespa] (https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_download.ipynb)
+   - [Notebook Jupyter: baixando ações da Bovespa](https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_download.ipynb)
  - Limpeza de dados
-   - pré-processamento [Notebook Jupyter: pré-processamento] (https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_portfolio.ipynb)
+   - pré-processamento [Notebook Jupyter: pré-processamento](https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_portfolio.ipynb)
 
 
 ## Portfólio via otimização convexa do índice de Sharpe esperado
@@ -32,4 +32,4 @@ Para cada mês, é elaborada uma carteira de ações com base no índice de reto
 - Alta volatilidade devido ao pequeno número de ações que compõem a carteira
 
 
-**Veja o [Notebook Jupyter] (https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_download_portfolio.ipynb) apresentando todo o procedimento e resultados.**
+**Veja o [Notebook Jupyter](https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_download_portfolio.ipynb) apresentando todo o procedimento e resultados.**
