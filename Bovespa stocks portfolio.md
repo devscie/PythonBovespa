@@ -16,6 +16,7 @@ Existem cadernos de notas *Notebook Jupyter* separados que explicam como fazer o
  - Limpeza de dados
    - pré-processamento [Notebook Jupyter: pré-processamento] (https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_portfolio.ipynb)
 
+
 ## Portfólio via otimização convexa do índice de Sharpe esperado
 
 O objetivo é elaborar uma carteira com bom desempenho utilizando um número reduzido de ações da lista disponível.
@@ -24,7 +25,6 @@ Para cada mês, é elaborada uma carteira de ações com base no índice de reto
 - iBovespa: o índice oficial da Bovespa (composto por +60 ações)
 - Média BVSP: média simples de todas as ações disponíveis da iBovespa
 - Dolar: O valor atual dos dólares americanos em reais
-
 
 **Resultados esperados:**
 
