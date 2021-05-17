@@ -14,5 +14,6 @@ Os códigos (variáveis e comentários), no entanto, podem estar em inglês para
 4. [Curva de Juros Brasil](https://github.com/devscie/PythonBovespa/blob/main/curva_juros_BR.ipynb)<br><br>
 5. [Fórmula Mágica - Joel Greenblat](https://github.com/devscie/PythonBovespa/blob/main/Formula__Magica_Joel_Greenblat.ipynb)<br><br>
 6. [Compra ações por volatilidade](https://github.com/devscie/PythonBovespa/blob/main/compra_por_volatividade.ipynb)<br><br>
+7. [Análise_de_Ações_com_Time_Series (> Liq. 2 meses)](https://github.com/devscie/PythonBovespa/blob/main/bovespa_tickers_analise.ipynb)<br><br>
 
 *In construction!*
